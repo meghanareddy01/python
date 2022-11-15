@@ -1,2 +1,3 @@
-a=int(input(5)
-print('enter the numbers:')
+list=[2,5,6,7,1]
+v=min(list)
+print('lowet number',v);
